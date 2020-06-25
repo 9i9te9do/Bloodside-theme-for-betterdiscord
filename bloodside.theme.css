@@ -36,9 +36,9 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://i.imgur.com/hPba1FH.png);
-  --Settings-Background: url(https://i.imgur.com/hPba1FH.png);
-  --Callout-Background: url(https://i.imgur.com/hPba1FH.png);
+  --Chat-Background: url(i.imgur.com/hPba1FH.png);
+  --Settings-Background: url(i.imgur.com/hPba1FH.png);
+  --Callout-Background: url(i.imgur.com/hPba1FH.png);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " BLOODSIDE";
   --Chat-Font-Used: "Whitney";
