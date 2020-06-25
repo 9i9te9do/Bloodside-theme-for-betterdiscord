@@ -12,7 +12,7 @@
  * @invite 
 */
 /* Source Code */
-@import url(https://raw.githubusercontent.com/9i9te9do/Bloodside-theme-for-betterdiscord/master/master_code.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Master_Code.css);
 /* Animations */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Animations/No.css);
 /* Fonts https://nfld99.github.io/Better-Discord/Font_List.txt */
@@ -69,5 +69,6 @@
   --Guild-Columns: 1;
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 50%;
+  --File-Updated-2020-5-24: ;
   --Background-Darkness: 0.43;
 }
