@@ -1,4 +1,3 @@
-
 */
 @import url('https://nfld99.github.io/Better-Discord/Notifications/Made_By_NFLD99.css');
 @import url('https://nfld99.github.io/Better-Discord/Source_Code/FI/FIL.css');
@@ -7,6 +6,7 @@
 @import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
 :root {
   --Update-Text: " Update #523";
+  --File-Updated-2020-5-24: url(https://nfld99.com/images/RDLTF.png);
   --Settings-Dock-Colour: var(--Main-Colour);
   --BetterDocsBlockerWhite: var(--Main-Colour);
   --BetterDocsBlockerBlack1: var(--Background-Colour);
@@ -239,7 +239,7 @@ body>div:last-of-type{
 .app-2rEoOp,
 .container-16j22k,
 .app-19_DXt {
-  background: var() 50% 50%/contain no-repeat , var(--Chat-Background) 50% 50%/cover !important;
+  background: var(--File-Updated-2020-5-24) 50% 50%/contain no-repeat , var(--Chat-Background) 50% 50%/cover !important;
   animation: Load4 3s 1 linear, var(--StartUp) 3s 1 linear;
   font-family: var(--Chat-Font-Used)!important;
 }
