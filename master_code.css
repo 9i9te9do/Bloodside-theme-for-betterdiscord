@@ -1,47 +1,4 @@
-/*This Theme Uses Code From The Following Themes I DO NOT TAKE CREDIT FOR THE CODE USED FROM THEM,Please Check Them Out 
-Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/master/Simplified-Green.theme.css 
-*/
-/* 
-                                          `-.`'.-'
-                                       `-.        .-'.
-                                    `-.    -./\.-    .-'
-                                        -.  /_|\  .-
-                                    `-.   `/____\'   .-'.
-                                 `-.    -./.-""-.\.-      '
-                                    `-.  /< (()) >\  .-'
-                                  -   .`/__`-..-'__\'   .-
-                                ,...`-./___|____|___\.-'.,.
-                                   ,-'   ,` . . ',   `-,
-                                ,-'   ________________  `-,
-                                   ,'/____|_____|_____\
-                                  / /__|_____|_____|___\
-                                 / /|_____|_____|_____|_\
-                                ' /____|_____|_____|_____\
-                              .' /__|_____|_____|_____|___\
-                             ,' /|_____|_____|_____|_____|_\
-,,---''--...___...--'''--.. /../____|_____|_____|_____|_____\ ..--```--...___...--``---,,
-                           '../__|_____|_____|_____|_____|___\
-      \    )              '.:/|_____|_____|_____|_____|_____|_\               (    /
-      )\  / )           ,':./____|_____|_____|_____|_____|_____\             ( \  /(
-     / / ( (           /:../__|_____|_____|_____|_____|_____|___\             ) ) \ \
-    | |   \ \         /.../|_____|_____|_____|_____|_____|_____|_\           / /   | |
- .-.\ \    \ \       '..:/____|_____|_____|_____|_____|_____|_____\         / /    / /.-.
-(=  )\ `._.' |       \:./ _|_____|_____|_____|_____|_____|_____|___\        | `._.' /(  =)
- \ (_)       )       \./|_____|_____|_____|_____|_____|_____|_____|_\       (       (_) /
-  \    `----'         """"""""""""""""""""""""""""""""""""""""""""""""       `----'    /
-   \   ____\__                                                              __/____   /
-    \ (=\     \                                                            /     /-) /
-     \_)_\     \                                                          /     /_(_/
-          \     \                                                        /     /
-           )     )  _                                                _  (     (
-          (     (,-' `-..__                                    __..-' `-,)     )
-           \_.-''          ``-..____                  ____..-''          ``-._/
-            `-._                    ``--...____...--''                    _.-'
-                `-.._                                                _..-'
-                     `-..__           NFLD KNOWS ALL           __..-'
-                           ``-..____                  ____..-''
-                                    ``--...____...--''
-*/
+
 @import url('https://nfld99.github.io/Better-Discord/Notifications/Made_By_NFLD99.css');
 @import url('https://nfld99.github.io/Better-Discord/Source_Code/FI/FIL.css');
 @import url('https://nfld99.github.io/Better-Discord/Source_Code/FI/BL.css');
@@ -49,7 +6,6 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
 @import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
 :root {
   --Update-Text: " Update #523";
-  --File-Updated-2020-5-24: url(https://nfld99.com/images/RDLTF.png);
   --Settings-Dock-Colour: var(--Main-Colour);
   --BetterDocsBlockerWhite: var(--Main-Colour);
   --BetterDocsBlockerBlack1: var(--Background-Colour);
@@ -282,7 +238,7 @@ body>div:last-of-type{
 .app-2rEoOp,
 .container-16j22k,
 .app-19_DXt {
-  background: var(--File-Updated-2020-5-24) 50% 50%/contain no-repeat , var(--Chat-Background) 50% 50%/cover !important;
+  background: var(  ) 50% 50%/contain no-repeat , var(--Chat-Background) 50% 50%/cover !important;
   animation: Load4 3s 1 linear, var(--StartUp) 3s 1 linear;
   font-family: var(--Chat-Font-Used)!important;
 }
