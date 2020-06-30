@@ -3,13 +3,10 @@
  * @author 9i9te9do
  * @version ersion auto updates
  * @description Custom 9i9te9do theme for betterdiscord
- * @source 
- * @website 
- * @patreon 
- * @authorLink 
- * @donate 
- * @authorId 
- * @invite 
+ * @source https://nfld99.com/
+ * @website https://github.com/9i9te9do/Bloodside-theme-for-betterdiscord
+ * @authorLink https://github.com/9i9te9do
+ * @authorId $𝙐𝘽𝙊𝙓𝙊𝙉𝙀#4854
 */
 
 /* Source Code */
@@ -62,9 +59,6 @@
   --Popout-Background: var(--Chat-Background);
   --Popout-Text-Shadow-Colour:var(--Text-Shadow-Colour);
   --Emote-Popout-Background: var(--Secondary-Background-Colour);
-  --load1: "Thank You!";
-  --load2: "Please Enjoy!";
-  --load3: "➢9i9te9do";
   --Settings-Dock-Colour: var(--Main-Colour);
   --Timestamp-Colour: var(--Secondary-Main-Colour);
   --Guild-Columns: 1;
