@@ -11728,7 +11728,7 @@ color: var(--Main-Colour);
 }
 
 .bannerImage-1jOskm {
-  -webkit-mask: linear-gradient(rgba(0,0,0,1) 80%, rgba(0,0,0,0) 100%) !important;
+  -webkit-mask: linear-gradient(rgba(0,0,0,0) 80%, rgba(0,0,0,0) 100%) !important;
 }
 
 .bannerImage-1jOskm:after {
