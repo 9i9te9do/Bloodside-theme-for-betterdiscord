@@ -270,7 +270,7 @@ body>div:last-of-type{
 } */
 
 .theme-dark .ui-standard-sidebar-view .content-region, .ui-standard-sidebar-view .content-region, .theme-dark .ui-standard-sidebar-view .sidebar-region, .ui-standard-sidebar-view .sidebar-region {
-  background: rgba(0, 0, 0, var(--Background-Darkness)) !important;
+  background: rgba(0, 0, 0, 0) !important;
 }
 
 .callout-backdrop, .modal-1UGdnR, .header-2BwW8b, .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
